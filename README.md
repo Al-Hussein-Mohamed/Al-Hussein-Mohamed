@@ -8,6 +8,9 @@
 - 🌱 I’m currently learning **Flutter** to build impactful and user-friendly applications
 
 - 📫 How to reach me **AlhusseinMohamedRaafat@gmail.com**
+  
+- 👉 [View CV (PDF)](https://github.com/Al-Hussein-Mohamed/Al-Hussein-Mohamed/blob/main/assets/AlHussein_Mohamed_CV.pdf)
+
 
 <br>
 <h3 align="left">Profiles:</h3>
